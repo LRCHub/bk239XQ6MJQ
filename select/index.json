@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "OVERLAP",
+  "base_artist": "Kimeru",
+  "createdAt": "2025-12-28T02:32:28.125489Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Overlap",
+      "artist": "Chicane",
+      "has_synced": false,
+      "path": "select/01_Overlap_Chicane.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Where The Lines Overlap",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/02_Where_The_Lines_Overlap_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "09. Where The Lines Overlap",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/03_09._Where_The_Lines_Overlap_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Where The Lines Overlap",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/04_Where_The_Lines_Overlap_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Where The Lines Overlap (Acoustic)",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/05_Where_The_Lines_Overlap_(Acoustic)_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Where the Lines Overlap (Album Version)",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/06_Where_the_Lines_Overlap_(Album_Version)_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Where The Lines Overlap",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/07_Where_The_Lines_Overlap_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Where The Lines Overlap (Acoustic)",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/08_Where_The_Lines_Overlap_(Acoustic)_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "overlap (1/1)",
+      "artist": "Billlie",
+      "has_synced": true,
+      "path": "select/09_overlap_(1_1)_Billlie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Overlap",
+      "artist": "Catfish and the Bottlemen",
+      "has_synced": true,
+      "path": "select/10_Overlap_Catfish_and_the_Bottlemen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Where The Lines Overlap",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/11_Where_The_Lines_Overlap_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Overlap",
+      "artist": "Ani DiFranco",
+      "has_synced": false,
+      "path": "select/12_Overlap_Ani_DiFranco.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Where The Lines Overlap (Acoustic)",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/13_Where_The_Lines_Overlap_(Acoustic)_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Where The Lines Overlap [Acoustic]",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/14_Where_The_Lines_Overlap_[Acoustic]_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Where the Lines Overlap",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/15_Where_the_Lines_Overlap_Paramore.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Overlap",
+      "artist": "Kimeru",
+      "has_synced": false,
+      "path": "select/pl_01_Overlap_Kimeru.txt"
+    }
+  ]
+}
